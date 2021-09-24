@@ -1,0 +1,14 @@
+.calc-window {
+  border: 1px solid black;
+  padding: 1em;
+  display: block;
+  width: 100%;
+}
+
+.calc-btn {
+  --size: 50px;
+  border: none;
+  font-size: large;
+  width: var(--size);
+  height: var(--size);
+}
